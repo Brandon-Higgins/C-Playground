@@ -1,3 +1,3 @@
 # C-Playground
-Learning C Programming Language
+Learning C Programming Language.
 Very basic stuff...
